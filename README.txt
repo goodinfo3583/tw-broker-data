@@ -1,7 +1,7 @@
 broker_crawler/
 ├── .github/
 │   └── workflows/
-│       └── crawler.yml    <=== 新增這個檔案
+│       └── crawler.yml
 ├── fetch_broker_data.py
 ├── update_broker.py
-└── data/ (如果有舊資料的話)
+└── data/ #TPEX FLOWS和TWSE FLOWS讀取這些來源(ALL)
