@@ -32,7 +32,7 @@ jobs:
     - name: Run crawler
       run: |
         # 執行指揮官程式 (預設會抓你設定在 HOT_STOCKS 裡面的股票)
-        python update_broker.py
+        python update_broker.py --all
 
     - name: Commit and Push changes
       run: |
