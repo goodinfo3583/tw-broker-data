@@ -1,0 +1,48 @@
+name: Daily Broker Crawler
+
+on:
+  schedule:
+    # 設定為每天台灣時間下午 4:30 執行 (UTC 時間早上 8:30)
+    - cron: '30 8 * * *'
+  workflow_dispatch: # 🌟 加入這個設定，讓你可以隨時在網頁上手動點擊執行按鈕
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 允許機器人把抓好的資料寫回(Push)你的 Repo
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11' 
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # 直接安裝我們需要的套件，免去 requirements.txt
+        pip install pandas playwright
+        # 安裝 Playwright 瀏覽器核心與系統依賴
+        playwright install --with-deps chromium
+
+    - name: Run crawler
+      run: |
+        # 執行指揮官程式 (預設會抓你設定在 HOT_STOCKS 裡面的股票)
+        python update_broker.py
+
+    - name: Commit and Push changes
+      run: |
+        # 讓機器人具備推播權限
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # 將 data 與 docs 資料夾的新資料加入追蹤
+        git add data/ docs/
+        
+        # 存檔並推播 (如果沒有新資料則略過避免報錯)
+        git commit -m "🤖 自動更新券商分點資料 [skip ci]" || echo "No changes to commit"
+        git push
