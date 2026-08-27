@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T13:46:05.073747",
+  "updated": "2026-08-27T22:44:45.317859",
   "brokers": {
     "元大-三峽": [
       {
@@ -14,8 +14,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -38,
-        "cumulative": 39
+        "net_vol": -42,
+        "cumulative": 35
       }
     ],
     "元大-三民": [
@@ -48,8 +48,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 153,
-        "cumulative": 157
+        "net_vol": 158,
+        "cumulative": 162
       }
     ],
     "元大-上新莊": [
@@ -252,8 +252,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -11,
-        "cumulative": 247
+        "net_vol": -8,
+        "cumulative": 250
       }
     ],
     "元大-北三重": [
@@ -286,8 +286,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 142,
-        "cumulative": -577
+        "net_vol": 170,
+        "cumulative": -549
       }
     ],
     "元大-北府": [
@@ -320,8 +320,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 2,
-        "cumulative": -823
+        "net_vol": -8,
+        "cumulative": -833
       }
     ],
     "元大-北港": [
@@ -490,8 +490,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -282,
-        "cumulative": -435
+        "net_vol": -269,
+        "cumulative": -422
       }
     ],
     "元大-台北": [
@@ -507,8 +507,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 963,
-        "cumulative": 2331
+        "net_vol": 953,
+        "cumulative": 2321
       }
     ],
     "元大-台南": [
@@ -677,8 +677,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 55,
-        "cumulative": -233
+        "net_vol": 59,
+        "cumulative": -229
       }
     ],
     "元大-土城永寧": [
@@ -813,8 +813,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -119,
-        "cumulative": 281
+        "net_vol": -121,
+        "cumulative": 279
       }
     ],
     "元大-大甲": [
@@ -881,8 +881,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 133,
-        "cumulative": -550
+        "net_vol": 128,
+        "cumulative": -555
       }
     ],
     "元大-大里": [
@@ -932,8 +932,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -225,
-        "cumulative": -885
+        "net_vol": -233,
+        "cumulative": -893
       }
     ],
     "元大-天母": [
@@ -949,8 +949,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -4790,
-        "cumulative": -3485
+        "net_vol": -4759,
+        "cumulative": -3454
       }
     ],
     "元大-太平": [
@@ -966,8 +966,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -94,
-        "cumulative": 185
+        "net_vol": -95,
+        "cumulative": 184
       }
     ],
     "元大-學甲": [
@@ -1017,8 +1017,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -448,
-        "cumulative": -124
+        "net_vol": -458,
+        "cumulative": -134
       }
     ],
     "元大-屏東": [
@@ -1034,8 +1034,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -160,
-        "cumulative": -402
+        "net_vol": -169,
+        "cumulative": -411
       }
     ],
     "元大-屏東民生": [
@@ -1051,8 +1051,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -7,
-        "cumulative": -665
+        "net_vol": -6,
+        "cumulative": -664
       }
     ],
     "元大-岡山": [
@@ -1119,8 +1119,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -174,
-        "cumulative": -176
+        "net_vol": -165,
+        "cumulative": -167
       }
     ],
     "元大-彰化": [
@@ -1136,8 +1136,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 189,
-        "cumulative": 497
+        "net_vol": 184,
+        "cumulative": 492
       }
     ],
     "元大-彰化民生": [
@@ -1153,8 +1153,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -153,
-        "cumulative": 877
+        "net_vol": -101,
+        "cumulative": 929
       }
     ],
     "元大-復北": [
@@ -1238,8 +1238,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -219,
-        "cumulative": 1125
+        "net_vol": -236,
+        "cumulative": 1108
       }
     ],
     "元大-敦南": [
@@ -1255,8 +1255,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 593,
-        "cumulative": -2056
+        "net_vol": 591,
+        "cumulative": -2058
       }
     ],
     "元大-文心": [
@@ -1272,8 +1272,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -21,
-        "cumulative": 48
+        "net_vol": -16,
+        "cumulative": 53
       }
     ],
     "元大-文心興安": [
@@ -1289,8 +1289,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 440,
-        "cumulative": 296
+        "net_vol": 432,
+        "cumulative": 288
       }
     ],
     "元大-斗信": [
@@ -1323,8 +1323,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 377,
-        "cumulative": 49
+        "net_vol": 370,
+        "cumulative": 42
       }
     ],
     "元大-新店中正": [
@@ -1357,8 +1357,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -91,
-        "cumulative": 232
+        "net_vol": -85,
+        "cumulative": 238
       }
     ],
     "元大-新生": [
@@ -1374,8 +1374,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -39,
-        "cumulative": 118
+        "net_vol": -34,
+        "cumulative": 123
       }
     ],
     "元大-新盛": [
@@ -1391,8 +1391,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 1196,
-        "cumulative": 936
+        "net_vol": 1192,
+        "cumulative": 932
       }
     ],
     "元大-新竹": [
@@ -1408,8 +1408,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 382,
-        "cumulative": 230
+        "net_vol": 387,
+        "cumulative": 235
       }
     ],
     "元大-新竹經國": [
@@ -1442,8 +1442,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -217,
-        "cumulative": -152
+        "net_vol": -209,
+        "cumulative": -144
       }
     ],
     "元大-旗山": [
@@ -1561,8 +1561,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 12815,
-        "cumulative": 12519
+        "net_vol": 12806,
+        "cumulative": 12510
       }
     ],
     "元大-板橋": [
@@ -1578,8 +1578,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 141,
-        "cumulative": 293
+        "net_vol": 137,
+        "cumulative": 289
       }
     ],
     "元大-板橋三民": [
@@ -1646,8 +1646,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 344,
-        "cumulative": -442
+        "net_vol": 339,
+        "cumulative": -447
       }
     ],
     "元大-桃興": [
@@ -1714,8 +1714,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -252,
-        "cumulative": -564
+        "net_vol": -251,
+        "cumulative": -563
       }
     ],
     "元大-民生三民": [
@@ -1731,8 +1731,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -316,
-        "cumulative": -726
+        "net_vol": -328,
+        "cumulative": -738
       }
     ],
     "元大-民雄": [
@@ -1799,8 +1799,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 74,
-        "cumulative": -55
+        "net_vol": 62,
+        "cumulative": -67
       }
     ],
     "元大-汐止": [
@@ -1816,8 +1816,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -826,
-        "cumulative": -1001
+        "net_vol": -830,
+        "cumulative": -1005
       }
     ],
     "元大-沙鹿": [
@@ -1833,8 +1833,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -110,
-        "cumulative": -1274
+        "net_vol": -108,
+        "cumulative": -1272
       }
     ],
     "元大-淡水": [
@@ -1850,8 +1850,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 153,
-        "cumulative": 1522
+        "net_vol": 162,
+        "cumulative": 1531
       }
     ],
     "元大-清水": [
@@ -1867,8 +1867,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -30,
-        "cumulative": 25
+        "net_vol": -28,
+        "cumulative": 27
       }
     ],
     "元大-潮州": [
@@ -1884,8 +1884,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 293,
-        "cumulative": 93
+        "net_vol": 303,
+        "cumulative": 103
       }
     ],
     "元大-發財": [
@@ -1935,8 +1935,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -67,
-        "cumulative": 258
+        "net_vol": -60,
+        "cumulative": 265
       }
     ],
     "元大-竹南": [
@@ -2003,8 +2003,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -1832,
-        "cumulative": -149
+        "net_vol": -1817,
+        "cumulative": -134
       }
     ],
     "元大-羅東": [
@@ -2037,8 +2037,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 15,
-        "cumulative": -1321
+        "net_vol": 13,
+        "cumulative": -1323
       }
     ],
     "元大-苑裡": [
@@ -2071,8 +2071,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -86,
-        "cumulative": 182
+        "net_vol": -77,
+        "cumulative": 191
       }
     ],
     "元大-草屯": [
@@ -2088,8 +2088,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 385,
-        "cumulative": 897
+        "net_vol": 389,
+        "cumulative": 901
       }
     ],
     "元大-莒光": [
@@ -2122,8 +2122,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -11,
-        "cumulative": -18
+        "net_vol": -9,
+        "cumulative": -16
       }
     ],
     "元大-萬華": [
@@ -2156,8 +2156,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -111,
-        "cumulative": -42
+        "net_vol": -108,
+        "cumulative": -39
       }
     ],
     "元大-蘆洲中正": [
@@ -2173,8 +2173,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 250,
-        "cumulative": 1563
+        "net_vol": 272,
+        "cumulative": 1585
       }
     ],
     "元大-虎尾": [
@@ -2207,8 +2207,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -367,
-        "cumulative": -863
+        "net_vol": -368,
+        "cumulative": -864
       }
     ],
     "元大-西螺": [
@@ -2224,8 +2224,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -208,
-        "cumulative": 81
+        "net_vol": -172,
+        "cumulative": 117
       }
     ],
     "元大-豐原": [
@@ -2241,8 +2241,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 152,
-        "cumulative": 87
+        "net_vol": -59,
+        "cumulative": -124
       }
     ],
     "元大-豐原站前": [
@@ -2258,8 +2258,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -73,
-        "cumulative": -812
+        "net_vol": -80,
+        "cumulative": -819
       }
     ],
     "元大-路竹": [
@@ -2292,8 +2292,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 77,
-        "cumulative": 692
+        "net_vol": 74,
+        "cumulative": 689
       }
     ],
     "元大-金門": [
@@ -2309,8 +2309,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -143,
-        "cumulative": -346
+        "net_vol": -134,
+        "cumulative": -337
       }
     ],
     "元大-鑫永和": [
@@ -2343,8 +2343,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 17,
-        "cumulative": 92
+        "net_vol": 16,
+        "cumulative": 91
       }
     ],
     "元大-雙和": [
@@ -2360,8 +2360,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -2490,
-        "cumulative": -3041
+        "net_vol": -2488,
+        "cumulative": -3039
       }
     ],
     "元大-頭份": [
@@ -2377,8 +2377,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 132,
-        "cumulative": -260
+        "net_vol": 70,
+        "cumulative": -322
       }
     ],
     "元大-館前": [
@@ -2394,8 +2394,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 9519,
-        "cumulative": 10000
+        "net_vol": 9507,
+        "cumulative": 9988
       }
     ],
     "元大-高雄": [
@@ -2411,8 +2411,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 293,
-        "cumulative": 266
+        "net_vol": 276,
+        "cumulative": 249
       }
     ],
     "元大-鳳中": [
@@ -2428,8 +2428,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -59,
-        "cumulative": -378
+        "net_vol": -60,
+        "cumulative": -379
       }
     ],
     "元大-鳳山": [
@@ -2462,8 +2462,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -344,
-        "cumulative": 334
+        "net_vol": -350,
+        "cumulative": 328
       }
     ],
     "元大-龍潭": [
@@ -2479,8 +2479,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -564,
-        "cumulative": -1949
+        "net_vol": -558,
+        "cumulative": -1943
       }
     ],
     "元大證券": [
@@ -2496,8 +2496,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 32784,
-        "cumulative": 126592
+        "net_vol": 33276,
+        "cumulative": 127084
       }
     ],
     "凱基": [
@@ -2564,8 +2564,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -354,
-        "cumulative": -406
+        "net_vol": -378,
+        "cumulative": -430
       }
     ],
     "凱基-中壢": [
@@ -2700,8 +2700,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -49,
-        "cumulative": 89
+        "net_vol": -42,
+        "cumulative": 96
       }
     ],
     "凱基-北門": [
@@ -2717,8 +2717,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -157,
-        "cumulative": -364
+        "net_vol": -153,
+        "cumulative": -360
       }
     ],
     "凱基-南崁": [
@@ -2768,8 +2768,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 24787,
-        "cumulative": 20627
+        "net_vol": 25647,
+        "cumulative": 21487
       }
     ],
     "凱基-台南": [
@@ -2802,8 +2802,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -20,
-        "cumulative": -75
+        "net_vol": -16,
+        "cumulative": -71
       }
     ],
     "凱基-和平": [
@@ -2853,8 +2853,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -146,
-        "cumulative": 409
+        "net_vol": -151,
+        "cumulative": 404
       }
     ],
     "凱基-土城": [
@@ -2989,8 +2989,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -151,
-        "cumulative": -119
+        "net_vol": -153,
+        "cumulative": -121
       }
     ],
     "凱基-宜蘭": [
@@ -3125,8 +3125,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -1136,
-        "cumulative": -1561
+        "net_vol": -1119,
+        "cumulative": -1544
       }
     ],
     "凱基-斗六": [
@@ -3227,8 +3227,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 18,
-        "cumulative": 100
+        "net_vol": 13,
+        "cumulative": 95
       }
     ],
     "凱基-松山": [
@@ -3295,8 +3295,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 75,
-        "cumulative": 798
+        "net_vol": 63,
+        "cumulative": 786
       }
     ],
     "凱基-民權": [
@@ -3312,8 +3312,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -420,
-        "cumulative": -1792
+        "net_vol": -428,
+        "cumulative": -1800
       }
     ],
     "凱基-永和": [
@@ -3329,8 +3329,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 190,
-        "cumulative": -65
+        "net_vol": 188,
+        "cumulative": -67
       }
     ],
     "凱基-永康": [
@@ -3346,8 +3346,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -114,
-        "cumulative": -134
+        "net_vol": -100,
+        "cumulative": -120
       }
     ],
     "凱基-永華": [
@@ -3397,8 +3397,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 534,
-        "cumulative": 312
+        "net_vol": 535,
+        "cumulative": 313
       }
     ],
     "凱基-科園": [
@@ -3431,8 +3431,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 854,
-        "cumulative": 1828
+        "net_vol": 875,
+        "cumulative": 1849
       }
     ],
     "凱基-竹北": [
@@ -3448,8 +3448,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -428,
-        "cumulative": -1205
+        "net_vol": -416,
+        "cumulative": -1193
       }
     ],
     "凱基-竹東": [
@@ -3550,8 +3550,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 138,
-        "cumulative": 106
+        "net_vol": 141,
+        "cumulative": 109
       }
     ],
     "凱基-豐中": [
@@ -3567,8 +3567,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 227,
-        "cumulative": 466
+        "net_vol": 253,
+        "cumulative": 492
       }
     ],
     "凱基-長庚": [
@@ -3584,8 +3584,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -144,
-        "cumulative": -207
+        "net_vol": -135,
+        "cumulative": -198
       }
     ],
     "凱基-雙和": [
@@ -3635,8 +3635,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 67,
-        "cumulative": -226
+        "net_vol": 64,
+        "cumulative": -229
       }
     ],
     "凱基-高雄": [
@@ -3686,8 +3686,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 64631,
-        "cumulative": 57791
+        "net_vol": 64890,
+        "cumulative": 58050
       }
     ],
     "大和國泰": [
@@ -3720,8 +3720,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 110,
-        "cumulative": -310
+        "net_vol": 101,
+        "cumulative": -319
       }
     ],
     "富邦-三峽": [
@@ -3754,8 +3754,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -71,
-        "cumulative": 132
+        "net_vol": -72,
+        "cumulative": 131
       }
     ],
     "富邦-中壢": [
@@ -3771,8 +3771,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -791,
-        "cumulative": -827
+        "net_vol": -766,
+        "cumulative": -802
       }
     ],
     "富邦-二林": [
@@ -3805,8 +3805,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -1083,
-        "cumulative": 416
+        "net_vol": -1054,
+        "cumulative": 445
       }
     ],
     "富邦-內湖": [
@@ -3873,8 +3873,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -122,
-        "cumulative": -420
+        "net_vol": -85,
+        "cumulative": -383
       }
     ],
     "富邦-南京": [
@@ -3890,8 +3890,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -27,
-        "cumulative": -61
+        "net_vol": -39,
+        "cumulative": -73
       }
     ],
     "富邦-南員林": [
@@ -3907,8 +3907,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 70,
-        "cumulative": -1231
+        "net_vol": 69,
+        "cumulative": -1232
       }
     ],
     "富邦-南屯": [
@@ -3975,8 +3975,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -730,
-        "cumulative": -527
+        "net_vol": -734,
+        "cumulative": -531
       }
     ],
     "富邦-台南": [
@@ -3992,8 +3992,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -213,
-        "cumulative": 63
+        "net_vol": -300,
+        "cumulative": -24
       }
     ],
     "富邦-台東": [
@@ -4026,8 +4026,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -1067,
-        "cumulative": -640
+        "net_vol": -1070,
+        "cumulative": -643
       }
     ],
     "富邦-員林": [
@@ -4043,8 +4043,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -170,
-        "cumulative": 468
+        "net_vol": -156,
+        "cumulative": 482
       }
     ],
     "富邦-嘉義": [
@@ -4128,8 +4128,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -459,
-        "cumulative": -581
+        "net_vol": -457,
+        "cumulative": -579
       }
     ],
     "富邦-左營": [
@@ -4162,8 +4162,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -283,
-        "cumulative": -341
+        "net_vol": -282,
+        "cumulative": -340
       }
     ],
     "富邦-彰化": [
@@ -4213,8 +4213,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -90,
-        "cumulative": -861
+        "net_vol": -88,
+        "cumulative": -859
       }
     ],
     "富邦-新店": [
@@ -4230,8 +4230,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -3216,
-        "cumulative": -997
+        "net_vol": -3202,
+        "cumulative": -983
       }
     ],
     "富邦-新板": [
@@ -4247,8 +4247,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -759,
-        "cumulative": -717
+        "net_vol": -809,
+        "cumulative": -767
       }
     ],
     "富邦-新營": [
@@ -4281,8 +4281,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -535,
-        "cumulative": 473
+        "net_vol": -536,
+        "cumulative": 472
       }
     ],
     "富邦-新莊": [
@@ -4332,8 +4332,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -219,
-        "cumulative": -1515
+        "net_vol": -216,
+        "cumulative": -1512
       }
     ],
     "富邦-桃園": [
@@ -4349,8 +4349,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -951,
-        "cumulative": -900
+        "net_vol": -948,
+        "cumulative": -897
       }
     ],
     "富邦-樹林": [
@@ -4383,8 +4383,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -466,
-        "cumulative": -877
+        "net_vol": -475,
+        "cumulative": -886
       }
     ],
     "富邦-永康": [
@@ -4502,8 +4502,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -263,
-        "cumulative": -139
+        "net_vol": -267,
+        "cumulative": -143
       }
     ],
     "富邦-苗栗": [
@@ -4553,8 +4553,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -72,
-        "cumulative": -367
+        "net_vol": -76,
+        "cumulative": -371
       }
     ],
     "富邦-陽明": [
@@ -4570,8 +4570,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -1575,
-        "cumulative": -11290
+        "net_vol": -1552,
+        "cumulative": -11267
       }
     ],
     "富邦-青埔": [
@@ -4604,8 +4604,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": -516,
-        "cumulative": -338
+        "net_vol": -526,
+        "cumulative": -348
       }
     ],
     "富邦-高雄": [
@@ -4638,8 +4638,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 7916,
-        "cumulative": -1128
+        "net_vol": 7881,
+        "cumulative": -1163
       }
     ],
     "摩根大通": [
@@ -4655,8 +4655,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 10048,
-        "cumulative": -44040
+        "net_vol": 10310,
+        "cumulative": -43778
       }
     ],
     "新加坡商瑞銀": [
@@ -4672,8 +4672,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 35945,
-        "cumulative": 74283
+        "net_vol": 36350,
+        "cumulative": 74688
       }
     ],
     "港商野村": [
@@ -4689,8 +4689,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 1976,
-        "cumulative": -2468
+        "net_vol": 2485,
+        "cumulative": -1959
       }
     ],
     "港商麥格理": [
@@ -4706,8 +4706,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 993,
-        "cumulative": 7108
+        "net_vol": 1146,
+        "cumulative": 7261
       }
     ],
     "美商高盛": [
@@ -4723,8 +4723,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 39829,
-        "cumulative": 48457
+        "net_vol": 39354,
+        "cumulative": 47982
       }
     ],
     "美林": [
@@ -4740,8 +4740,8 @@
       },
       {
         "date": "2026-08-27",
-        "net_vol": 42577,
-        "cumulative": 77794
+        "net_vol": 42940,
+        "cumulative": 78157
       }
     ],
     "群益金鼎-高盛": [
